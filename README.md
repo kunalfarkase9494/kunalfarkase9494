@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">A passionate Java Developer building scalable web applications</h3>
+<h3 align="center">Full Stack Java Developer building scalable web applications</h3>
 
 ---
 - 🔭 I’m have completed several project **[E-Commerce Website](https://github.com/kunalfarkase9494/E-CommerceUsingSpringBoot) ,[Voting Application](https://github.com/kunalfarkase9494/VotingApplicationUsingSpringFramework) and [more..](https://github.com/kunalfarkase9494).**  
